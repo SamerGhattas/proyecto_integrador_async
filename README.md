@@ -8,3 +8,9 @@ _Proyecto final de eCommerce de Servicios para aprobar el primer track de CTD en
 * [Firebase] (https://firebase.google.com/?hl=es-419) - Server y Base de datos
 * [Toastify] (https://fkhadra.github.io/react-toastify/introduction/) - Notificaciones
 
+## Mi Linkedin
+* [Linkedin] (https://www.linkedin.com/in/samer-ghattas-158998241/)
+
+
+Muchas Gracias.
+
