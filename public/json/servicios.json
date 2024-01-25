@@ -1,0 +1,122 @@
+[
+    {
+        "id" : "classic-wedding-photography",
+        "idCategoria" : "photo",
+        "nombre" : "Classic Wedding Photography", 
+        "descripcion" : "Un fotógrafo dedicado y un servicio de hasta 9 horas de cobertura para registrar tu matrimonio de inicio a fin",
+        "producto" : "800 Fotografías",
+        "preparativos" : "Preparativos en (1) locación hasta el cotillón",
+        "horasCobertura" : 9,
+        "equipo" : "1 Fotógrafo + Asistente",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 650000,
+        "stock" : 20, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/classic-wedding-photo.jpg?alt=media&token=ddfa692f-ecb5-41ea-b334-e9f51ef88304"
+    
+    }, 
+    {
+        "id" : "experience-wedding-photography",
+        "idCategoria" : "photo",
+        "nombre" : "Experience Wedding Photography", 
+        "descripcion" : "2 Fotógrafos cubriendo el evento y la entrega de fotografías ilimitadas, ideal para matrimonios desde 200 invitados",
+        "producto" : "Fotografías Ilimitadas",
+        "preparativos" : "Preparativos en (2) locación hasta el cotillón",
+        "horasCobertura" : 10,
+        "equipo" : "2 Fotógrafos",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 750000,
+        "stock" : 20, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/experience-wedding-photo.jpg?alt=media&token=b40e70fe-345e-4c5e-beb6-a0e0458a2985"
+    
+    }, 
+    {
+        "id" : "classic-wedding-film",
+        "idCategoria" : "films",
+        "nombre" : "Classic Wedding Film", 
+        "descripcion" : "Un video de 15 minutos para recordar tu matrimonio, registrado por 2 videógrafos durante el evento",
+        "producto" : "Film de 15 minutos + Highlights",
+        "preparativos" : "Preparativos en (1) locación hasta el cotillón",
+        "horasCobertura" : 9,
+        "equipo" : "2 videógrafos con cámaras 4K",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 830000,
+        "stock" : 20, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/classic-wedding-film.jpg?alt=media&token=f748295d-71c8-40e5-80bc-d7081a674947"
+
+    }, 
+    {
+        "id" : "experience-wedding-film",
+        "idCategoria" : "films",
+        "nombre" : "Experience Wedding Film", 
+        "descripcion" : "Un video de 20 minutos para recordar tu matrimonio que incluyen los preparativos de ambos novios/as",
+        "producto" : "Film de 20 minutos + Highlights",
+        "preparativos" : "Preparativos en (2) locaciones hasta el cotillón",
+        "horasCobertura" : 10,
+        "equipo" : "2 videógrafos con cámaras 4K",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 980000,
+        "stock" : 20, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/experience-wedding-film.jpg?alt=media&token=beeb8b74-69fe-45ff-9b6f-983ca570a6cc"
+
+    },
+    {
+        "id" : "wedding-full-classic",
+        "idCategoria" : "full",
+        "nombre" : "Wedding Full Classic", 
+        "descripcion" : "Fotografías y un video de 15 minutos para tu matrimonio en un pack optimizado para matrimonios o ceremonias petit",
+        "producto" : "Film de 15 minutos + Highlights + 800 Fotografías",
+        "preparativos" : "Preparativos en (1) locación hasta el cotillón",
+        "horasCobertura" : 9,
+        "equipo" : "1 fotógrafo + Asistente, 1 videógrafo",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 1390990,
+        "stock" : 10, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/classic-wedding-film.jpg?alt=media&token=f748295d-71c8-40e5-80bc-d7081a674947"
+
+    }, 
+    {
+        "id" : "wedding-full-experience",
+        "idCategoria" : "full",
+        "nombre" : "Wedding Full Experience", 
+        "descripcion" : "Fotografía y video para tu matrimonio con máxima cobertura, un equipo de 2 videógrafos y 2 fotógrafos durante todo el evento",
+        "producto" : "Film de 20 minutos + Highlights + Fotografías ilimitadas",
+        "preparativos" : "Preparativos en (2) locaciones hasta el cotillón",
+        "horasCobertura" : 10,
+        "equipo" : "2 fotógrafos + 2 videógrafos",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 1599990,
+        "stock" : 10, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/full-experience.jpg?alt=media&token=1c20640d-4766-483f-a137-9e75f3b9a0dd"
+
+    }, 
+    {
+        "id" : "retrocam-color",
+        "idCategoria" : "servicios-adicionales",
+        "nombre" : "Retrocam Color", 
+        "descripcion" : "Fotografías análogas 35mm tomadas por tus invitados en Color",
+        "producto" : "Hasta 360 fotografías",
+        "horasCobertura" : 4,
+        "preparativos": "",
+        "equipo" : "Arriendo de 10 cámaras análogas 35mm + rollos Color",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 599990,
+        "stock" : 6, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/retrocam-color.jpg?alt=media&token=4b58d810-9b21-4098-94bb-b4109a10a8a6"
+
+    },
+    {
+        "id" : "retrocam-b-n",
+        "idCategoria" : "servicios-adicionales",
+        "nombre" : "Retrocam B&W", 
+        "descripcion" : "Fotografías análogas 35mm tomadas por tus invitados en Blanco & Negro",
+        "producto" : "Hasta 360 fotografías",
+        "horasCobertura" : 4,
+        "preparativos": "",
+        "equipo" : "Arriendo de 10 cámaras análogas 35mm + rollos B&N",
+        "entrega" : "Entrega Vía Descarga Online",
+        "valorNormal" : 399990,
+        "stock" : 6, 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-servicios.appspot.com/o/retrocam-bn.jpg?alt=media&token=91d69731-11dd-4084-b8e4-23d0f5ad60ab"
+
+    }
+]
