@@ -5,7 +5,7 @@ _Proyecto final de eCommerce de Servicios para aprobar el primer track de CTD en
 ## Creado con 🛠️
 
 * [React] (https://reactjs.org/) - JavaScript Framework
-* [Firebase] (https://firebase.google.com/?hl=es-419) - Server y Base de datos
+* [Firebase] (https://firebase.google.com/?hl=es-419) - Server / DB
 * [Toastify] (https://fkhadra.github.io/react-toastify/introduction/) - Notificaciones
 
 ## Como se hizo este proyecto?
